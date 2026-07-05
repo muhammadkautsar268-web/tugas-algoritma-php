@@ -59,7 +59,7 @@ localhost/tugas-algoritma-php/
 
 
 
-Contoh:
+
 
 ![Screenshot]("hasil-program.png")
 
